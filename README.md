@@ -1,2 +1,2 @@
 # Shrimp-Biscuit
-A little shrimp swims in a tank and eats biscuits.
+A little shrimp named Larry swims in a tank and eats biscuits.
