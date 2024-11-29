@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638683404550991618
-    m_Hash: 966462131
+      ticks: 638683560448571797
+    m_Hash: 2792176889
   m_LockFileStatus:
     m_FilePath: C:/Users/joann/IdeaProjects/Shrimp-Biscuit/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638683404551063180
-    m_Hash: 4260635170
+      ticks: 638683560448571797
+    m_Hash: 3593778981
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
